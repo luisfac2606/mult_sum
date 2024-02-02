@@ -1,0 +1,11 @@
+Package: multsumsu
+Type: Package
+Title: Multiplicacion de numeros mediante sumas sucesivas
+Version: 0.1.0
+Author: Luis Avendaño
+Maintainer: The package maintainer <luis.avendanio@espoch.edu.ec>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
